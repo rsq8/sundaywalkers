@@ -1,7 +1,13 @@
 //To be completed:
-// Student id:  2127893
+// Lecturer: Dr. Benjamin Mora
 // Student name: Yusuf Dauda
 // date: 18/11/2021
+
+/**Most of the code defining the problem is written by the Lecturer Dr.Ben Mora
+* Mutex, all lock implementations and the methods that implement the locks, the function
+* (WalkersI) and all associated functions, variables, vectors, maps, grids, and threads created
+* are all done by me the student.
+*/
 
 #include <iostream>
 #include <mutex>
